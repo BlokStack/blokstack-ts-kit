@@ -1,4 +1,4 @@
-# ts-kit
+# blokstack-ts-kit
 
 > Common boilerplate for TypeScript projects
 
